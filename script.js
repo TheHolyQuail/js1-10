@@ -1,4 +1,5 @@
-//decides if you should sleep in
+//the various functions:
+
 function sleepIn(x,y) {
     if(x == y){
         return true;
